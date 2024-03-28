@@ -1,0 +1,13 @@
+.bi-person-video2::before {
+  margin-right: 2rem;
+  font-size: 2rem;
+}
+
+.bi-arrows-angle-expand::before {
+  margin-left: 5rem;
+  font-size: 0.9rem;
+}
+label {
+  color: white;
+}
+
